@@ -1,0 +1,37 @@
+Template::Plugin::Filter::Minify::JavaScript::XS is Copyright (C) 2009, Michael Schout.
+
+WHAT IS THIS?
+
+    This package contains the Template::Plugin::Filter::Minify::JavaScript::XS.
+    This module is a filter for minifying javascript code during template
+    processing using JavaScript::Minifier::XS.
+
+INSTALLATION
+
+To install this module type the following:
+
+    perl Makefile.PL
+    make
+    make test
+    make install
+
+DEPENDENCIES
+
+This module requires these other CPAN modules:
+
+    Template 2.0
+    JavaScript::Minifier::XS
+
+COPYRIGHT AND LICENSE
+
+   Copyright (C) 2009 Michael Schout.
+
+   This program is free software; you can redistribute it and/or modify it
+   under the terms of either:
+
+   *   the GNU General Public License as published by the Free Software
+       Foundation; either version 1, or (at your option) any later
+       version, or
+
+   *   the Artistic License version 2.0.
+
