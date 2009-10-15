@@ -50,7 +50,7 @@ to compress javascript code from filtered content during template processing.
 
 You can contribute or fork this project via github:
 
-http://github.com/mschout/template-plugin-filter-minify-javascript-xs/tree/master
+http://github.com/mschout/template-plugin-filter-minify-javascript-xs
 
  git clone git://github.com/mschout/template-plugin-filter-minify-javascript-xs.git
 
