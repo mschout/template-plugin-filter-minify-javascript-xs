@@ -1,4 +1,7 @@
 Revision history for Perl extension Template::Plugin::Filter::Minify::JavaScript::XS.
 
+0.91  Tue Oct 26 2009
+    - added signature test
+
 0.90  Thu Oct 15 2009
-    initial version
+    - initial version
