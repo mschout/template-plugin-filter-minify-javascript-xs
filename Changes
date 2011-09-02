@@ -2,6 +2,7 @@ Revision history for Template::Plugin::Filter::Minify::JavaScript::XS
 
 {{$NEXT}}
     - use Dist::Zilla
+    - Fix POD typo
 
 0.92  Fri Nov 13 2009
     - disable signature test unless TEST_SIGNATURE is enabled, otherwise test
