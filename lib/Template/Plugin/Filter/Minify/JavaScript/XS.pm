@@ -1,8 +1,5 @@
 package Template::Plugin::Filter::Minify::JavaScript::XS;
-BEGIN {
-  $Template::Plugin::Filter::Minify::JavaScript::XS::VERSION = '0.93';
-}
-
+$Template::Plugin::Filter::Minify::JavaScript::XS::VERSION = '0.94';
 # ABSTRACT: JavaScript::Minifier::XS filter for Template Toolkit
 
 use 5.006;
@@ -28,7 +25,7 @@ sub filter {
 
 1;
 
-
+__END__
 
 =pod
 
@@ -38,7 +35,7 @@ Template::Plugin::Filter::Minify::JavaScript::XS - JavaScript::Minifier::XS filt
 
 =head1 VERSION
 
-version 0.93
+version 0.94
 
 =head1 SYNOPSIS
 
@@ -80,13 +77,9 @@ Michael Schout <mschout@cpan.org>
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2011 by Michael Schout.
+This software is copyright (c) 2014 by Michael Schout.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
 
 =cut
-
-
-__END__
-

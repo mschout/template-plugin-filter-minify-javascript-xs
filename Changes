@@ -1,5 +1,8 @@
 Revision history for Template::Plugin::Filter::Minify::JavaScript::XS
 
+0.94  2014-04-01
+    - remove Module::Signature requirement
+
 0.93  2011-09-02
     - use Dist::Zilla
     - Fix POD typo
